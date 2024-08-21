@@ -30,7 +30,7 @@ SimplEncrypt uses the following Python libraries:
 You can install these dependencies using pip:
 
 ```sh
-pip3 install pycryptodome getpass colorama
+pip3 install pycryptodome colorama
 ```
 
 ## Usage
